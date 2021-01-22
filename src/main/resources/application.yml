@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: trace-demo2
+server:
+  port: 8080
+uri: http://192.168.6.4:30000/getUserInfo
